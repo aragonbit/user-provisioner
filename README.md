@@ -31,6 +31,7 @@ The tool is ideal for environments where users should only be allowed to connect
 ## Usage
 
 ```bash
+wget https://raw.githubusercontent.com/youruser/user-provisioner/main/setup_user.sh
 chmod +x setup_user.sh
 sudo ./setup_user.sh
 ```
