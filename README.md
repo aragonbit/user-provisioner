@@ -33,3 +33,5 @@ The tool is ideal for environments where users should only be allowed to connect
 ```bash
 chmod +x setup_user.sh
 sudo ./setup_user.sh
+```
+The Script was created with the help of AI
